@@ -169,7 +169,7 @@ Jev as the decision layer inside coding agents and agent frameworks: model routi
 - [**oh-my-claudecode**](https://github.com/Yeachan-Heo/oh-my-claudecode) ★ 39.7k `integration` - multi-agent team orchestration for Claude Code featuring opt-in Jev hooks for sub-millisecond judgment points, decision caching, and per-point egress controls
 - [**jcode**](https://github.com/1jehuang/jcode) ★ 20.4k `integration` - RAM-efficient autonomous agent harness implemented in Rust with native TypeSafe Jev typed decision transport for memory pruning, browser navigation, and voice interaction routing
 - [**Eliza**](https://github.com/elizaOS/eliza) ★ 19.6k `integration` - multi-agent framework integrating TypeSafe System One decision services for sub-100ms intent classification, action dispatching, and confidence-gated tool execution
-- [**jev-chat-jarvis**](https://github.com/jev-chat/jev-chat-jarvis) ★ 7.5k - The chat decision assistant: before you reply, Jev reads the chat, judges intent and risk, and drafts replies you fill in with one tap. You press send. Android · Windows · macOS · iOS 
+- [**jev-chat-jarvis**](https://github.com/jev-chat/jev-chat-jarvis) ★ 7.5k - The chat decision assistant: before you reply, Jev reads the chat, judges intent and risk, and drafts replies you fill in with one tap. You press send. Android · Windows · macOS · iOS
 - [**jevgrep**](https://github.com/dzhng/jevgrep) ★ 2.5k - Find code by asking what it does. A CLI for coding agents that uses Jev to discover relevant files and source context
 - [**agentconnect**](https://github.com/agentconnect-md/agentconnect) ★ 1.5k `integration` - Team agent workspace using Jev typed decisions for response routing and model selection
 - [**hermes-jev-skills**](https://github.com/kerpopule/hermes-jev-skills) ★ 1.1k - Jev-powered model routing, memory, compaction, skill selection, computer and browser use for Hermes agents (also Claude Code and Codex)
@@ -369,4 +369,3 @@ One project per pull request. Bulk submissions of same-day scaffolds are closed 
 ## License
 
 MIT License - see [LICENSE](LICENSE)
-
